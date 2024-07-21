@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**phillippesamer/phillippesamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+back-end developer and consultant;
 
-Here are some ideas to get you started:
+computer science and mathematics degrees (_read: solution architect and problem solver_);
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+code and language nerd (passion for well crafted code and beautiful writing);
+
+
+- ⚙️ I use daily: `.cpp`, `.py`, `.sh`
+- 📈 Expertise in optimization and the design and analysis of algorithms
+- 💅 I made it through the PhD! [Pressemelding frå UiB i anledning ph.d.-grad disputas](https://www.uib.no/nye-doktorgrader/166501/matematikk-og-kode-beste-uavhengige-delnettverk)
+- 🔎 Long, [detailed version of my CV](phillippe-samer-detailed-cv.pdf) with almost all projects I worked on over the past decade or so
+
+Have a nice day! 🍀
