@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-back-end developer and consultant;
-
-computer science and mathematics degrees (_read: solution architect and problem solver_);
-
 code and language nerd (_passion for well crafted code and beautiful writing_);
 
+computer science and mathematics degrees (_read: solution architect and problem solver_).
 
 - ⚙️ I use daily: `.cpp`, `.py`, `.sh`
 - 📈 expertise in optimization and the design and analysis of algorithms
