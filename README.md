@@ -2,7 +2,9 @@
 
 code and language nerd (_passion for well crafted code and beautiful writing_);
 
-computer science and mathematics degrees (_read: systematic problem solver_).
+computer science and mathematics degrees (_read: systematic problem solver_);
+
+glad new employee (consultant and system developer) at [Bouvet ASA](https://github.com/bouvet).
 
 - ⚙️ I dig `.cpp` and `.java`
 - :rocket: interested in robust and scalable solution architectures
