@@ -1,9 +1,7 @@
 #### Hi there 👋
 
-I'm a code and language nerd (_passion for beautiful writing as well as well crafted code_),
+I'm a language, math and code nerd (_passion for beautiful novels and well-crafted code_),
 
-with some computer science and mathematics degrees (_read: systematic problem solver_),
-
-and glad permanent employee (_consultant_) at [Bouvet](https://www.bouvet.no/).
+and permanent employee at [Bouvet](https://www.bouvet.no/) (_consultant, dev, wannabe security champion_).
 
 Have a nice day! 🍀
